@@ -233,7 +233,7 @@ npm run build
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](ISC) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -246,9 +246,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or run into issues, please:
-- Check the [Issues](https://github.com/yourusername/ai-resume-analyzer/issues) page
+- Check the [Issues](https://github.com/ASHUTOSH-KUMAR-RAO/ai-resume-analyzer/issues) page
 - Create a new issue if needed
-- Contact us at support@yourproject.com
+- Contact us at support@icoashutosh@gmail.com 
 
 ## 🔄 Version History
 
